@@ -1,5 +1,8 @@
-<> Hello! I'm Mohammed Numaan.
-<> I'm a Student & Web Developer.
+<> 👋 Hello! I'm Mohammed Numaan.
+
+<> 💻 I'm a Student & Web Developer.
+
+<> 📖 Currently learning Intermediate HTML & CSS.
 
 # Technologies I Use
 
