@@ -1,6 +1,6 @@
 <> 👋 Hello! I'm Mohammed Numaan.
 
-<> 💻 I'm a Student & Web Developer.
+<> 💻 I'm a Student and a Web Developer.
 
 <> 📖 Currently learning Intermediate HTML & CSS.
 
