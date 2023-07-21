@@ -2,7 +2,7 @@
 
 <> 💻 I'm a Student and a Web Developer.
 
-<> 📖 Currently learning Intermediate HTML & CSS.
+<> 📖 Currently learning Intermediate JavaScript.
 
 # Technologies I Use
 
