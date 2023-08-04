@@ -10,6 +10,10 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-label?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6&color=%231572B6)
 ![Static Badge](https://img.shields.io/badge/JavaScript-label?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23242124&color=%23242124)
 
+# Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammednumaan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
