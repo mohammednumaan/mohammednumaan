@@ -18,9 +18,9 @@
 
 # Mini-Projects
 
-<img src='https://github.com/mohammednumaan/mohammednumaan/assets/138296610/50cb9792-86fa-4ffe-a911-14becdd9a573' width='400'>
+<img src='https://github.com/mohammednumaan/mohammednumaan/assets/138296610/50cb9792-86fa-4ffe-a911-14becdd9a573' width='300'>
 
-<img src='https://github.com/mohammednumaan/mohammednumaan/assets/138296610/960c3e28-ed19-435b-b1ad-9dc59fa62448' width='400'>
+<img src='https://github.com/mohammednumaan/mohammednumaan/assets/138296610/960c3e28-ed19-435b-b1ad-9dc59fa62448' width='300'>
 
 
 
