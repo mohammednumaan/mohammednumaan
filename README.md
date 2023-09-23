@@ -10,7 +10,8 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-label?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6&color=%231572B6)
 ![Static Badge](https://img.shields.io/badge/JavaScript-label?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23242124&color=%23242124)
 ![Static Badge](https://img.shields.io/badge/-Webpack?style=for-the-badge&logo=webpack&label=Webpack&labelColor=black&color=%238DD6F9)
-![Static Badge](https://img.shields.io/badge/JEST-tool?style=flat-square&logo=jest&logoColor=white&labelColor=%23C21325&color=%23C21325)
+![Static Badge](https://img.shields.io/badge/JEST-tool?style=for-the-badge&logo=jest&logoColor=white&labelColor=%23C21325&color=%23C21325)
+
 
 
 # Github Stats
