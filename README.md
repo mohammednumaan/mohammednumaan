@@ -2,7 +2,7 @@
 
 <> 💻 I'm a Student and a Web Developer.
 
-<> 📖 Currently learning React.
+<> 📖 Currently learning Node.
 
 # Technologies I Use
 
