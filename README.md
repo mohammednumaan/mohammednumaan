@@ -1,8 +1,4 @@
-<> 👋 Hello! I'm Mohammed Numaan.
-
-<> 💻 I'm a Student and a Web Developer.
-
-<> 📖 Currently learning Node.
+Hello! I am Mohammed Numaan, an undergraduate student majoring in Computer Science and Business System with a strong foundation in both front-end and back-end development.
 
 # Tools I Use
 
