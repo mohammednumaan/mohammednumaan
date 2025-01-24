@@ -1,8 +1,22 @@
-![banner](https://github.com/user-attachments/assets/b04355ab-377e-4b62-895e-733b35fc7fa2)
+![profile-gif](https://github.com/user-attachments/assets/cb70d179-a06c-410a-b398-f3e80e537c2a)
 
-Hello! I am Mohammed Numaan, an undergraduate student majoring in Computer Science and Business System with a strong foundation in both front-end and back-end development.
+### Who Am I?
+Hello! I am `Mohammed Numaan`, an undergraduate student majoring in Computer Science and Business Systems with a strong foundation in both front-end and back-end development. Feel free to reach me through these links:
+- Twitter Handle: [mohammednumaan](https://x.com/numaan27)
+- Business Email: mohammednumaanoffiical0027@gmail.com
 
-# Technologies I Use
+### What Am I Working On?
+
+- A cloud-based `storage` platform. [Repo](https://github.com/mohammednumaan/void-storage-ui)
+- A simple toy `HTML Parser`. [Repo](https://github.com/mohammednumaan/html-parser)
+
+### What Am I Learning?
+
+- I'm exploring and diving deep into learning/developing `back-end` systems.
+- I'm exploring and learning about `computer networks`. 
+
+
+### Technologies I Use
 ![HTML](https://img.shields.io/badge/html-mu?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=black)
 ![CSS](https://img.shields.io/badge/css-ss?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=black)
 ![JS](https://img.shields.io/badge/javascript-lang?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=black)
@@ -21,25 +35,6 @@ Hello! I am Mohammed Numaan, an undergraduate student majoring in Computer Scien
 ![React Router](https://img.shields.io/badge/reactrouter-tool?style=for-the-badge&logo=reactrouter&logoColor=%23CA4245&labelColor=black&color=black)
 
 
-# Github Stats
+### Github Stats
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=mohammednumaan&show_icons=true&theme=blue_navy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohammednumaan&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
