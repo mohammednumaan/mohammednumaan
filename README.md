@@ -12,8 +12,8 @@ Hello! I am `Mohammed Numaan`, an undergraduate student majoring in Computer Sci
 
 ### What Am I Learning?
 
-- I'm exploring and diving deep into learning/developing `back-end` systems.
-- I'm exploring and learning about `computer networks`. 
+- Learning about `backend` systems.
+- Understanding `computer networks`. 
 
 
 ### Technologies I Use
