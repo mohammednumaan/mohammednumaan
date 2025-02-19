@@ -1,20 +1,11 @@
 ![profile-gif](https://github.com/user-attachments/assets/cb70d179-a06c-410a-b398-f3e80e537c2a)
 
 ### Who Am I?
-Hello! I am `Mohammed Numaan`, an undergraduate student majoring in Computer Science and Business Systems with a strong foundation in both front-end and back-end development. Feel free to reach me through these links:
+Just a guy who loves back-end engineering, computer networking and crafting really cool softwares. 
+
+Feel free to reach me through these links:
 - Twitter Handle: [mohammednumaan](https://x.com/numaan27)
 - Business Email: mohammednumaanoffiical0027@gmail.com
-
-### What Am I Working On?
-
-- A cloud-based `storage` platform. [Repo](https://github.com/mohammednumaan/void-storage-ui)
-- A simple toy `HTML Parser`. [Repo](https://github.com/mohammednumaan/html-parser)
-
-### What Am I Learning?
-
-- Learning about `backend` systems.
-- Understanding `computer networks`. 
-
 
 ### Technologies I Use
 ![HTML](https://img.shields.io/badge/html-mu?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=black)
