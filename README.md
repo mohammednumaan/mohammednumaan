@@ -1,5 +1,5 @@
 ### /about
-just a guy who loves **back-end engineering** and crafting really awesome software.
+just a guy who loves **back-end engineering** and **distributed systems**.
 ### /skills
 <div>
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
