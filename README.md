@@ -1,4 +1,4 @@
-didn't expect time to be a distributed problem. but here we are.
+spending an unreasonable amount of time thinking about distributed systems and inference.
 
 view my portfolio?
 [[numaan.me]](https://www.numaan.me/)
