@@ -1,4 +1,4 @@
-<img src="./paint.gif" alt="ms-paint" width="107" height="35">
+<img src="./paint.gif" alt="ms-paint" width="213" height="200">
 
 spending an unreasonable amount of time thinking about distributed systems and inference.
 
