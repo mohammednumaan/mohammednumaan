@@ -1,4 +1,4 @@
-<img src="./ram.jpg alt="ram" width="213" height="200">
+<img src="./ram.jpg" alt="ram" width="213" height="200">
 
 spending an unreasonable amount of time thinking about distributed systems and inference.
 
